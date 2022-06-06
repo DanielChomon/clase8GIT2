@@ -6,4 +6,8 @@ public class Menu {
 
 
     }
+    public void menuReportes(){
+
+
+    }
 }
