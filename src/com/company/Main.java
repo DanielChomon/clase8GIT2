@@ -9,5 +9,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String opcion = sc.nextLine();
 
+        Menu menu = new Menu();
+        menu.menuCreacion();
+        menu.menuReportes();
     }
 }
